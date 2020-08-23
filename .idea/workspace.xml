@@ -23,14 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04f9b053-848a-4244-8985-9e2b097425ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/e-market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/components/admin-master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/components/home-master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/home-master.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/admin-master.blade.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +155,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -184,7 +179,8 @@
       <workItem from="1598034764967" duration="101000" />
       <workItem from="1598034890997" duration="75000" />
       <workItem from="1598034977075" duration="2883000" />
-      <workItem from="1598038263870" duration="495000" />
+      <workItem from="1598038263870" duration="2454000" />
+      <workItem from="1598044765145" duration="3520000" />
     </task>
     <servers />
   </component>
@@ -208,13 +204,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.2048.1112@0.0.1920.1040" timestamp="1598038306957" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1598036902929">
+    <state x="770" y="256" key="SettingsEditor" timestamp="1598047452891">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.2048.1112@0.0.1920.1040" timestamp="1598036902929" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598038732318">
+    <state x="770" y="256" key="SettingsEditor/0.0.1920.1040/1920.0.2048.1112@0.0.1920.1040" timestamp="1598047452891" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598049316408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.2048.1112@0.0.1920.1040" timestamp="1598038732318" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.2048.1112@0.0.1920.1040" timestamp="1598049316408" />
   </component>
 </project>
